@@ -34,9 +34,6 @@ The `customer_satisfaction_data.csv` file includes various columns that capture 
 
 The data in `customer_satisfaction_data.csv` can be used to create visualizations and analyses in a data dashboard tool such as Tableau, Power BI, or Python libraries like Matplotlib and Seaborn. Analyzing this data can help identify trends, patterns, and areas for improvement in customer satisfaction and support processes.
 
-## Contributors
-
-- [Your Name/Company Name]
 
 ## License
 
